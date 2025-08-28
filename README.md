@@ -1,9 +1,9 @@
 Data Science Project - Iris Dataset Analysis
 
-📌 Essay Insight
+Essay Insight
 The essay emphasized how data science plays a critical role in transforming industries by uncovering insights and driving informed decisions. It highlighted the importance of combining **technical expertise** (statistics, programming, visualization) with **domain knowledge** to solve real-world problems. The insight gained is that data science is not just about numbers, but about **storytelling with data** to create value.
 
-📊 Dataset Analysis
+Dataset Analysis
 For this project, the **Iris dataset** was analyzed.  
 The dataset contains 150 rows and 5 columns:
 - Sepal.Length (numeric)
@@ -25,7 +25,7 @@ Using **ggplot2**, a bar chart was created to compare the average Sepal Length a
 
 This illustrates how visualization makes statistical differences clearer and more intuitive.
 
-👩‍💻 Chosen Role
+Chosen Role
 The chosen role is **Data Scientist**.  
 This role involves:
 - Collecting and cleaning data,  
